@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files. 
 Git change the last commit.
 Make other changes.
+fix the broken email address.
